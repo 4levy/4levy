@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python & NodeJS
+💢 I’m currently learning Python & NodeJS
 
 
 ## 🌐 Socials:
