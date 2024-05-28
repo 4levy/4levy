@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/874898422233178142)](https://discord.com/users/874898422233178142)
 
 # 💫 About Me:
-💢 I’m currently learning Python & NodeJS
+💢 I’m currently learning Python, NodeJS and PHP
 
 
 ## 🌐 Socials:
