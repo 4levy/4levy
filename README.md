@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 💢 I’m currently learning Python, NodeJS and PHP
+
 💢 Follow me if you liked my repository :3
 
 ## 🌐 Socials:
