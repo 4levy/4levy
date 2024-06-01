@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 💢 I’m currently learning Python, NodeJS and PHP
-
+💢 Follow me if you liked my repository :3
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jmmrQcwYP3) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/4levy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/4levy_z1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/4levyz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@4levy_z1) 
