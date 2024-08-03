@@ -1,9 +1,7 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/874898422233178142)](https://discord.com/users/874898422233178142)
-
-
 ###
 
 <div align="center">
+  [![Discord Presence](https://lanyard.cnrad.dev/api/874898422233178142)](https://discord.com/users/874898422233178142)
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
