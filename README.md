@@ -1,5 +1,7 @@
 <div align="center">
   
+![](https://i.ibb.co/QcHHS4H/Discord.png)
+  
 ![](https://moe-counter.glitch.me/get/@4levy?theme=rule34)
 
 ## 🌐 | Socials:
