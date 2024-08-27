@@ -8,7 +8,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](TSdpyMMfrU) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/4levy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4levyz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/4levyz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@4levy_z1) 
 
 # 📊 | GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=4levy&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://raw.githubusercontent.com/4levy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/4levy/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4levy&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4levy&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
