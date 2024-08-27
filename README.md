@@ -10,8 +10,6 @@
 # 📊 | GitHub Stats:
 ![](https://raw.githubusercontent.com/4levy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/4levy/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=4levy&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4levy&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 | GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=4levy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
