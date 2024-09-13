@@ -1,5 +1,3 @@
-![](https://i.ibb.co/QcHHS4H/Discord.png)
-
 ```python
 C:\Users\miyak\Desktop>py info.py
 
@@ -34,6 +32,8 @@ class Levy:
 
 C:\Users\miyak\Desktop>
 ```
+
+![](https://i.ibb.co/QcHHS4H/Discord.png)
 
 <div align="center">
   
