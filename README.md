@@ -1,6 +1,8 @@
 ![](https://i.ibb.co/QcHHS4H/Discord.png)
 
 ```python
+C:\Users\miyak\Desktop>py info.py
+
 class Levy:
 
     def __init__(self):
@@ -30,6 +32,7 @@ class Levy:
             "PHP": "Learning... 🔧"
         }
 
+C:\Users\miyak\Desktop>
 ```
 
 <div align="center">
