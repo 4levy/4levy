@@ -1,6 +1,38 @@
-<div align="center">
-  
 ![](https://i.ibb.co/QcHHS4H/Discord.png)
+
+```python
+class Levy:
+
+    def __init__(self):
+        self.age = 16
+
+    def __info__(self):
+        self.bio = '''
+            Just a normal Discord bot developer.
+            I mainly program in Python and Node.js.
+        '''
+
+    def __social__(self):
+        socials = {
+            "Instagram": "https://www.instagram.com/4levyz/",
+            "Facebook": "https://www.facebook.com/4levy/",
+            "X (formerly Twitter)": "https://x.com/4levyz",
+            "Discord": ("4levy", 874898422233178142)
+        }
+
+    def __dev__(self):
+        skills = {
+            "Html": "Know",
+            "Css": "Know",
+            "Python": "Know",
+            "Node.js": "Know",
+            "C++": "Learning... 🔧",
+            "PHP": "Learning... 🔧"
+        }
+
+```
+
+<div align="center">
   
 ![](https://moe-counter.glitch.me/get/@4levy?theme=rule34)
 
