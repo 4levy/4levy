@@ -8,8 +8,7 @@ class Levy:
 
     def __info__(self):
         self.bio = '''
-            Just a normal Discord bot developer.
-            I mainly program in Python and Node.js.
+            Just a normal Discord bot developer
         '''
 
     def __social__(self):
