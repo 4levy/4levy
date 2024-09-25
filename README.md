@@ -1,7 +1,7 @@
 ```python
 C:\Users\miyak\Desktop>py info.py
 
-class Levy:
+class 4Levy:
 
     def __init__(self):
         self.age = 16
@@ -13,6 +13,7 @@ class Levy:
 
     def __social__(self):
         socials = {
+            "Website": "4levy.xyz",
             "Instagram": "https://www.instagram.com/4levyz/",
             "Facebook": "https://www.facebook.com/4levy/",
             "X (formerly Twitter)": "https://x.com/4levyz",
