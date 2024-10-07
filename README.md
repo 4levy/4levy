@@ -57,5 +57,5 @@ C:\Users\miyak\Desktop>
 ---
 [![](https://visitcount.itsvg.in/api?id=4levy&icon=2&color=12)](https://visitcount.itsvg.in)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/874898422233178142)](https://discord.com/users/874898422233178142)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
 </div>
