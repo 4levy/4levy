@@ -1,6 +1,4 @@
 ```python
-C:\Users\miyak\Desktop>py info.py
-
 class 4levy:
 
     def __init__(self):
@@ -29,8 +27,6 @@ class 4levy:
             "C++": "Learning... 🔧",
             "PHP": "Learning... 🔧"
         }
-
-C:\Users\miyak\Desktop>
 ```
 
 ![](https://i.ibb.co/QcHHS4H/Discord.png)
