@@ -34,7 +34,7 @@ class 4levy:
 
 <div align="center">
   
-![](https://moe-counter.glitch.me/get/@4levy?theme=rule34)
+![](https://count.getloli.com/@4levy?name=4levy&theme=booru-qualityhentais)
 
 # 📊 | GitHub Stats:
 ![](https://raw.githubusercontent.com/4levy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
