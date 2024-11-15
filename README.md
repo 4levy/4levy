@@ -26,6 +26,7 @@ class 4levy:
             "Node.js": "Know",
             "C++": "Learning... 🔧",
             "PHP": "Learning... 🔧"
+            "Vue": "Learning... 🔧"
         }
 ```
 ---
