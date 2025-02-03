@@ -1,13 +1,11 @@
+If you liked my project, star it for updates!
+<hr>
+
 ```python
 class 4levy:
 
     def __init__(self):
         self.age = 16
-
-    def __info__(self):
-        self.bio = '''
-            Just a normal Discord bot developer
-        '''
 
     def __social__(self):
         socials = {
