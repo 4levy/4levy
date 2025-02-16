@@ -49,6 +49,6 @@ class 4levy:
 
 [![Discord](https://img.shields.io/discord/1007520773096886323?color=7289DA&logo=discord&logoColor=white)](https://discord.gg/TSdpyMMfrU)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Currently%20taking%20a%20break%20from%20the%20keyboard...)](https://discord.com/users/94490510688792576)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Currently%20taking%20a%20break%20from%20the%20keyboard...)](https://discord.com/users/874898422233178142)
 
 </div>
