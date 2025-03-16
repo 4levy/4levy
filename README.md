@@ -1,36 +1,6 @@
 If you liked my project, star it for updates!
 <hr>
 
-```python
-class 4levy:
-
-    def __init__(self):
-        self.age = 16
-
-    def __social__(self):
-        socials = {
-            "Website": "4levy.xyz",
-            "Instagram": "https://www.instagram.com/4levyz/",
-            "Facebook": "https://www.facebook.com/4levy/",
-            "X (formerly Twitter)": "https://x.com/4levyz",
-            "Discord": ("4levy", 874898422233178142)
-        }
-
-    def __dev__(self):
-        skills = {
-            "Html": "Know",
-            "Css": "Know",
-            "Python": "Know",
-            "Node.js": "Know",
-            "C++": "Learning... 🔧",
-            "PHP": "Learning... 🔧"
-            "Vue": "Learning... 🔧"
-        }
-```
----
-
-![](https://i.ibb.co/QcHHS4H/Discord.png)
-
 <div align="center">
 
 ![](https://count.getloli.com/@4levy?name=4levy&theme=booru-qualityhentais)
