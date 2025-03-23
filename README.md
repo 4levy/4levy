@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://orhun.dev/img/crow.png" width="100" alt="Profile Logo">
-  <h1 style="font-family: 'Fira Code', monospace;">4levy</h1>
-
+<hr>
+  
   [![Twitter](https://img.shields.io/badge/-@4levyz__-313131?style=for-the-badge&labelColor=313131&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/4levyz)
   [![Discord](https://img.shields.io/badge/-@4levy-313131?style=for-the-badge&labelColor=313131&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/874898422233178142)
 </div>
