@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://orhun.dev/img/crow.png" width="100" alt="Profile Logo">
+  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Steak_JE4_BE3.png/revision/latest?cb=20190504055306" width="100" alt="Profile Logo">
 <hr>
   
   [![Twitter](https://img.shields.io/badge/-@4levyz__-313131?style=for-the-badge&labelColor=313131&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/4levyz)
