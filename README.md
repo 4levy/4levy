@@ -4,7 +4,7 @@
   
   [![Twitter](https://img.shields.io/badge/-@4levy_-313131?style=for-the-badge&labelColor=313131&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/4levyz)
   [![Discord](https://img.shields.io/badge/-@4levy-313131?style=for-the-badge&labelColor=313131&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/874898422233178142)
-  [![YouTube](https://img.shields.io/badge/-@4levy-313131?style=for-the-badge&labelColor=313131&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/@4levy_z1)
+  [![YouTube](https://img.shields.io/badge/-@4levy-313131?style=for-the-badge&labelColor=313131&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/@4levy)
 </div>
 
 <div align="center">
