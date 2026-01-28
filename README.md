@@ -1,5 +1,33 @@
+
+
+```
+..............                                      umrfyn@fxy
+            ..,;:ccc,.                              ----------
+          ......''';lxO.                            OS: Kali GNU/Linux Rolling x86_64
+.....''''..........,:ld;                            Kernel: Linux 6.18.5+kali-amd64
+           .';;;:::;,,.x,                           Uptime: 5 hours, 40 mins
+      ..'''.            0Xxoc:,.  ...               Packages: 3686 (dpkg), 10 (flatpak)
+  ....                ,ONkc;,;cokOdc',.             Shell: zsh 5.9
+ .                   OMo           ':ddo.           Display (VG240Y S): 1920x1080 in 24", 144 Hz [External]
+                    dMc               :OO;          DE: Xfce4 4.20
+                    0M.                 .:o.        WM: Xfwm4 (X11)
+                    ;Wd                             WM Theme: Kali-Pink-Dark
+                     ;XO,                           Theme: Fusion [Qt], Kali-Pink-Dark [GTK2/3/4]
+                       ,d0Odlc;,..                  Icons: Flat-Remix-Blue-Dark [Qt], Flat-Remix-Blue-Dark [GTK2/3/4]
+                           ..',;:cdOOd::,.          Font: Cantarell (11pt) [GTK2/3/4]
+                                    .:d;.':;.       Cursor: Adwaita (24px)
+                                       'd,  .'      Terminal: qterminal 2.3.0
+                                         ;l   ..    Terminal Font: FiraCode (10pt)
+                                          .o        CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12) @ 5.60 GHz
+                                            c       GPU: NVIDIA GeForce RTX 3060 Lite Hash Rate [Discrete]
+                                            .'      Memory: 5.35 GiB / 15.44 GiB (35%)
+                                             .      Swap: 1.08 GiB / 15.82 GiB (7%)
+                                                    Disk (/): 174.80 GiB / 440.87 GiB (40%) - ext4
+                                                    Local IP (wlan0): 192.168.1.101/24
+                                                    Locale: en_US.UTF-8
+```
 <div align="center">
-  <img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/376afdc3-5c55-41ae-abdd-9c5a2f47d5a8" />
+
 <hr>
   
   [![Twitter](https://img.shields.io/badge/-@umrfyn_-313131?style=for-the-badge&labelColor=313131&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/umrfyn_)
