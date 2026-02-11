@@ -23,7 +23,6 @@
                                             .'      Memory: 5.35 GiB / 15.44 GiB (35%)
                                              .      Swap: 1.08 GiB / 15.82 GiB (7%)
                                                     Disk (/): 174.80 GiB / 440.87 GiB (40%) - ext4
-                                                    Local IP (wlan0): 192.168.1.101/24
                                                     Locale: en_US.UTF-8
 ```
 <div align="center">
@@ -36,23 +35,23 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/overview.svg#gh-dark-mode-only" alt="overview dark" />
-  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/overview.svg#gh-light-mode-only" alt="overview light" />
+  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/overview.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/overview.svg#gh-light-mode-only"/>
 
-  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/languages.svg#gh-dark-mode-only" alt="languages dark" />
-  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/languages.svg#gh-light-mode-only" alt="languages light" />
+  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/languages.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/languages.svg#gh-light-mode-only" />
 </div>
 
 
 <div align="center">
-  <img src="https://count.getloli.com/@4levy?name=4levy&theme=booru-touhoulat" alt="Failed ">
+  <img src="https://count.getloli.com/@4levy?name=4levy&theme=booru-touhoulat">
 </div>
 
 ---
 
 <div align="center">
   <a href="https://discord.com/users/874898422233178142">
-    <img src="https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=ce74ff&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Currently%20taking%20a%20break%20from%20the%20keyboard..." alt="Discord Presence">
+    <img src="https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=ce74ff&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Rest%20in%20peace%20^^">
   </a>
 </div>
 
