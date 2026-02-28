@@ -1,18 +1,18 @@
 
 
-```
+```c
 ..............                                      umrfyn@fxy
             ..,;:ccc,.                              ----------
           ......''';lxO.                            OS: Kali GNU/Linux Rolling x86_64
-.....''''..........,:ld;                            Kernel: Linux 6.18.5+kali-amd64
-           .';;;:::;,,.x,                           Uptime: 5 hours, 40 mins
-      ..'''.            0Xxoc:,.  ...               Packages: 3686 (dpkg), 10 (flatpak)
+.....''''..........,:ld;                            Kernel: Linux 6.18.9+kali-amd64
+           .';;;:::;,,.x,                           Uptime: 99 hours, 24 mins
+      ..'''.            0Xxoc:,.  ...               Packages: 3216 (dpkg), 23 (flatpak)
   ....                ,ONkc;,;cokOdc',.             Shell: zsh 5.9
  .                   OMo           ':ddo.           Display (VG240Y S): 1920x1080 in 24", 144 Hz [External]
                     dMc               :OO;          DE: Xfce4 4.20
                     0M.                 .:o.        WM: Xfwm4 (X11)
-                    ;Wd                             WM Theme: Kali-Pink-Dark
-                     ;XO,                           Theme: Fusion [Qt], Kali-Pink-Dark [GTK2/3/4]
+                    ;Wd                             WM Theme: Kali-Dark
+                     ;XO,                           Theme: Fusion [Qt], Kali-Dark [GTK2/3/4]
                        ,d0Odlc;,..                  Icons: Flat-Remix-Blue-Dark [Qt], Flat-Remix-Blue-Dark [GTK2/3/4]
                            ..',;:cdOOd::,.          Font: Cantarell (11pt) [GTK2/3/4]
                                     .:d;.':;.       Cursor: Adwaita (24px)
@@ -20,10 +20,12 @@
                                          ;l   ..    Terminal Font: FiraCode (10pt)
                                           .o        CPU: 12th Gen Intel(R) Core(TM) i5-12400F (12) @ 5.60 GHz
                                             c       GPU: NVIDIA GeForce RTX 3060 Lite Hash Rate [Discrete]
-                                            .'      Memory: 5.35 GiB / 15.44 GiB (35%)
-                                             .      Swap: 1.08 GiB / 15.82 GiB (7%)
-                                                    Disk (/): 174.80 GiB / 440.87 GiB (40%) - ext4
+                                            .'      Memory: 6.20 GiB / 15.44 GiB (40%)
+                                             .      Swap: 1.56 GiB / 15.82 GiB (10%)
+                                                    Disk (/): 309.77 GiB / 440.87 GiB (70%) - ext4
+                                                    Local IP (wlan0): 0.0.0.0
                                                     Locale: en_US.UTF-8
+
 ```
 <div align="center">
 
