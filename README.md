@@ -3,7 +3,7 @@
 <hr>
   
   [![Twitter](https://img.shields.io/badge/-@umrfyn_-313131?style=for-the-badge&labelColor=313131&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/umrfyn_)
-  [![Discord](https://img.shields.io/badge/-@umrfyn-313131?style=for-the-badge&labelColor=313131&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/874898422233178142)
+  [![Discord](https://img.shields.io/badge/-@halfw-313131?style=for-the-badge&labelColor=313131&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/153584613221072896)
   [![YouTube](https://img.shields.io/badge/-@umrfyn-313131?style=for-the-badge&labelColor=313131&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/@umrfyn)
 </div>
 
