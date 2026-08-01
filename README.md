@@ -23,8 +23,8 @@
 ---
 
 <div align="center">
-  <a href="https://discord.com/users/874898422233178142">
-    <img src="https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=ce74ff&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Rest%20in%20peace%20^^">
+  <a href="https://discord.com/users/153584613221072896">
+    <img src="https://lanyard-profile-readme.vercel.app/api/153584613221072896?theme=light&bg=ce74ff&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Rest%20in%20peace%20^^">
   </a>
 </div>
 
