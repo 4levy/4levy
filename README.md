@@ -1,1 +1,1 @@
-Make things than pray to God hope it work
+Make things that pray to God hope it work
